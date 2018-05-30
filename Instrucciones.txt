@@ -1,0 +1,5 @@
+Los datos a ser analizados deben estar en la primer pestaña de excel,unicamente los datos, ordenados o no.
+
+Buscar el archivo cuando se oprime abrir (generalmente abrira en mis documentos).
+
+el boton de calcular varianza no sera util hasta que haya datos en la tabla.
